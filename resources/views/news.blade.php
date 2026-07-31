@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>HALAMAN NEWS</H1>
+    <H1>HALAMAN NEWS </H1>
 </body>
 </html>
